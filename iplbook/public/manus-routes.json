@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/matches", "title": "Matches" },
+    { "path": "/queue", "title": "Booking queue" },
+    { "path": "/tickets", "title": "My tickets" },
+    { "path": "/resale", "title": "Resale marketplace" },
+    { "path": "/admin", "title": "Admin operations" }
+  ]
+}
